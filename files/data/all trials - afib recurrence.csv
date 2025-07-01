@@ -1,0 +1,3 @@
+Study,Year,PMID,Registration, experimental_events, experimental_total, control_events, control_total, Cofactor.duration,Cofactor.monitoring
+ADVENT (Reddy),2023,37634148,NCT04612244,51,305,48,302,,Symptomatic
+SINGLE SHOT (Reichlin),2025,40162734,NCT05534581,39,105,53,105,91-356 days,Continuous
