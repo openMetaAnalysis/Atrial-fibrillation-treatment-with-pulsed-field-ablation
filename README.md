@@ -5,7 +5,7 @@ A living systematic review
 Short url: http://openMetaAnalysis.github.io/afib-rx-pulsed-field
 
 **Clinical summary:** 
-This meta-analysis suggests that the effectiveness of the clinical intervention *depends* on how the outcome of recurrent atrial fibrilation is monitoried. Regarding atrial fibrillation of at least 30 seconds lasting at least 30 seconds during days post-procedure 91 to 365, the SINGLE SHOT trial reported a borderling p-value of 0.046 with continous monitoring. However, the ADVENT trial did not use continuous monitoring and was insignificant. In addition, the forest plot below does not quite statistical benefit in the SINGLE SHOT trial for the recurrent atrial fibrillation.
+This meta-analysis compares pulsed field ablation to thermal ablation. This meta-analysis suggests that the effectiveness of the clinical intervention *depends* on how the outcome of recurrent atrial fibrilation is monitoried. Regarding atrial fibrillation of at least 30 seconds lasting at least 30 seconds during days post-procedure 91 to 365, the SINGLE SHOT trial reported a borderling p-value of 0.046 with continous monitoring. However, the ADVENT trial did not use continuous monitoring and was insignificant. In addition, the forest plot below does not quite statistical benefit in the SINGLE SHOT trial for the recurrent atrial fibrillation.
 Heterogeneity of results as measured by I<sup>2</sup> '[moderate]([https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2](https://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm))' to 'substantial' at 54% for all analyses; however very wide confidence intervals reflect the small number of studies and subjects. 
 
 <!--
