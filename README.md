@@ -1,15 +1,16 @@
-Template: clinical question
+Atrial fibrillation treatment with pulsed field ablation
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: http://openMetaAnalysis.github.io/afib-rx-pulsed-field
 
 **Clinical summary:** 
-This meta-analysis suggests that the effectiveness of the clinical intervention *is* [moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1). [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) betweeen intervention and control groups across outcomes range from x to y. 
+This meta-analysis suggests that the effectiveness of the clinical intervention *depends* on how the outcome of recurrent atrial fibrilation is monitoried. Regarding atrial fibrillation of at least 30 seconds lasting at least 30 seconds during days post-procedure 91 to 365, the SINGLE SHOT trial reported a borderling p-value of 0.046 with continous monitoring. However, the ADVENT trial did not use continuous monitoring and was insignificant. In addition, the forest plot below does not quite statistical benefit in the SINGLE SHOT trial for the recurrent atrial fibrillation.
+Heterogeneity of results as measured by I<sup>2</sup> '[moderate]([https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2](https://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm))' to 'substantial' at 54% for all analyses; however very wide confidence intervals reflect the small number of studies and subjects. 
 
-Heterogeneity of results as measured by I<sup>2</sup> '[might not be important](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at x% for all analyses; however very wide confidence intervals reflect the small number of studies and subjects. 
-
+<!--
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) has not been done due to the small number of studies.
+-->
 
 This review updates previously published meta-analysis(es).(citation[s] below)
 
@@ -32,30 +33,32 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
+<!--
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 The GRADE Profile is below. ![GRADE Profile](files/GRADE-profiles/Summary-of-findings-table.png "GRADE Profile")
-
+-->
 References:
 ----------------------------------
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+None
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Reichlin T, Kueffer T, Badertscher P, Jüni P, Knecht S, Thalmann G, Kozhuharov N, Krisai P, Jufer C, Maurhofer J, Heg D, Pereira TV, Mahfoud F, Servatius H, Tanner H, Kühne M, Roten L, Sticherling C; SINGLE SHOT CHAMPION Investigators. Pulsed Field or Cryoballoon Ablation for Paroxysmal Atrial Fibrillation. N Engl J Med. 2025 Apr 17;392(15):1497-1507. doi: [10.1056/NEJMoa2502280](https://doi.org/10.1056/NEJMoa2502280). Epub 2025 Mar 31. PMID: [40162734](https://pubmed.gov/40162734).
+2. Reddy VY, Gerstenfeld EP, Natale A, Whang W, Cuoco FA, Patel C, Mountantonakis SE, Gibson DN, Harding JD, Ellis CR, Ellenbogen KA, DeLurgio DB, Osorio J, Achyutha AB, Schneider CW, Mugglin AS, Albrecht EM, Stein KM, Lehmann JW, Mansour M; ADVENT Investigators. Pulsed Field or Conventional Thermal Ablation for Paroxysmal Atrial Fibrillation. N Engl J Med. 2023 Nov 2;389(18):1660-1671. doi: [10.1056/NEJMoa2307291](https://doi.org/10.1056/NEJMoa2307291). Epub 2023 Aug 27. PMID: [37634148](https://pubmed.gov/37634148).
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+NA
 
 #### Trial(s) undergoing review
 None
 
 #### Trial(s) excluded - selected list of important trial(s)
+1. Verma A, Haines DE, Boersma LV, Sood N, Natale A, Marchlinski FE, Calkins H, Sanders P, Packer DL, Kuck KH, Hindricks G, Onal B, Cerkvenik J, Tada H, DeLurgio DB; PULSED AF Investigators. Pulsed Field Ablation for the Treatment of Atrial Fibrillation: PULSED AF Pivotal Trial. Circulation. 2023 May 9;147(19):1422-1432. doi: [10.1161/CIRCULATIONAHA.123.063988](https://doi.org/10.1161/CIRCULATIONAHA.123.063988). Epub 2023 Mar 6. PMID: [36877118](https://pubmed.gov/36877118); PMCID: [PMC10158608](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158608). * Exluded as was a single-arm study
 
 #### Cited by
 This repository is cited by:
