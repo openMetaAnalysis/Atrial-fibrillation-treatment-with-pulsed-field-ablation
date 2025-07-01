@@ -44,7 +44,8 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-None
+1.  Montané B, Zhang S, Wolfe JD, Prime S, Luo C, Cooper DH, Doering M, Blomstrom-Lundqvist C, Nashef SAM, Osmancik P, Andrade JG, Bertaglia E, Parkash R, Mark DB, Nielsen JC, Sharples LD, Gage BF. Catheter and Surgical Ablation for Atrial Fibrillation. Ann Intern Med [Internet]. American College of Physicians; 2025 Jul [cited 2025 Jul 1]; Available from: https://www.acpjournals.org/doi/10.7326/ANNALS-25-00253 *This review did not addrssed pulsed-field treatment.*
+
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
@@ -58,7 +59,7 @@ NA
 None
 
 #### Trial(s) excluded - selected list of important trial(s)
-1. Verma A, Haines DE, Boersma LV, Sood N, Natale A, Marchlinski FE, Calkins H, Sanders P, Packer DL, Kuck KH, Hindricks G, Onal B, Cerkvenik J, Tada H, DeLurgio DB; PULSED AF Investigators. Pulsed Field Ablation for the Treatment of Atrial Fibrillation: PULSED AF Pivotal Trial. Circulation. 2023 May 9;147(19):1422-1432. doi: [10.1161/CIRCULATIONAHA.123.063988](https://doi.org/10.1161/CIRCULATIONAHA.123.063988). Epub 2023 Mar 6. PMID: [36877118](https://pubmed.gov/36877118); PMCID: [PMC10158608](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158608). * Exluded as was a single-arm study
+1. Verma A, Haines DE, Boersma LV, Sood N, Natale A, Marchlinski FE, Calkins H, Sanders P, Packer DL, Kuck KH, Hindricks G, Onal B, Cerkvenik J, Tada H, DeLurgio DB; PULSED AF Investigators. Pulsed Field Ablation for the Treatment of Atrial Fibrillation: PULSED AF Pivotal Trial. Circulation. 2023 May 9;147(19):1422-1432. doi: [10.1161/CIRCULATIONAHA.123.063988](https://doi.org/10.1161/CIRCULATIONAHA.123.063988). Epub 2023 Mar 6. PMID: [36877118](https://pubmed.gov/36877118); PMCID: [PMC10158608](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10158608). *Exluded as was a single-arm study*
 
 #### Cited by
 This repository is cited by:
