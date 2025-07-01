@@ -35,7 +35,7 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 The forest plot for the primary outcomes is below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
-The network meeta-analysis forest plot for the primary outcomes is below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
+The network forest plot for the primary outcome is below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/network.png)
 
 <!--
