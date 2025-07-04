@@ -55,7 +55,7 @@ References:
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1. Reichlin T, Kueffer T, Badertscher P, Jüni P, Knecht S, Thalmann G, Kozhuharov N, Krisai P, Jufer C, Maurhofer J, Heg D, Pereira TV, Mahfoud F, Servatius H, Tanner H, Kühne M, Roten L, Sticherling C; SINGLE SHOT CHAMPION Investigators. Pulsed Field or Cryoballoon Ablation for Paroxysmal Atrial Fibrillation. N Engl J Med. 2025 Apr 17;392(15):1497-1507. doi: [10.1056/NEJMoa2502280](https://doi.org/10.1056/NEJMoa2502280). Epub 2025 Mar 31. PMID: [40162734](https://pubmed.gov/40162734).
-2. Reddy VY, Gerstenfeld EP, Natale A, Whang W, Cuoco FA, Patel C, Mountantonakis SE, Gibson DN, Harding JD, Ellis CR, Ellenbogen KA, DeLurgio DB, Osorio J, Achyutha AB, Schneider CW, Mugglin AS, Albrecht EM, Stein KM, Lehmann JW, Mansour M; ADVENT Investigators. Pulsed Field or Conventional Thermal Ablation for Paroxysmal Atrial Fibrillation. N Engl J Med. 2023 Nov 2;389(18):1660-1671. doi: [10.1056/NEJMoa2307291](https://doi.org/10.1056/NEJMoa2307291). Epub 2023 Aug 27. PMID: [37634148](https://pubmed.gov/37634148).
+2. Reddy VY, Gerstenfeld EP, Natale A, Whang W, Cuoco FA, Patel C, Mountantonakis SE, Gibson DN, Harding JD, Ellis CR, Ellenbogen KA, DeLurgio DB, Osorio J, Achyutha AB, Schneider CW, Mugglin AS, Albrecht EM, Stein KM, Lehmann JW, Mansour M; ADVENT Investigators. Pulsed Field or Conventional Thermal Ablation for Paroxysmal Atrial Fibrillation. N Engl J Med. 2023 Nov 2;389(18):1660-1671. doi: [10.1056/NEJMoa2307291](https://doi.org/10.1056/NEJMoa2307291). Epub 2023 Aug 27. PMID: [37634148](https://pubmed.gov/37634148). 
 
 #### Trial(s) included in the review above
 NA
